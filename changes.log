@@ -1,0 +1,1 @@
+echo "Initial Commit: Set up project with website files, documentation, Dockerfile, and Kubernetes manifest." > changes.log
